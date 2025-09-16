@@ -14,7 +14,7 @@ import RefundPolicy from "./pages/RefundPolicy";
 import Panchang from "./pages/Panchang";
 import NumerlogyCal from "./pages/NumerlogyCal";
 import HoroScope from "./components/HoroScope";
-import MobileCal from "./pages/Mobliecal";
+import MobileCal from "./pages/MoblieCal";
 import NameCal from "./pages/NameCal";
 import ContactUs from "./pages/ContactUs";
 import ThankYou from "./pages/ThankYou";
